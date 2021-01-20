@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get "/" do
-  "Hello from Shipa updated"
+  "Hello from Shipa with CircleCI"
 end
